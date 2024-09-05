@@ -4,3 +4,4 @@ Plotly == 5.23.0
 Seaborn == 0.13.2
 Matplotlib == 3.9.0
 Scipy == 1.14.0
+#pdate according to your own machine 
